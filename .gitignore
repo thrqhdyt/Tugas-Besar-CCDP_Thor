@@ -1,8 +1,0 @@
-*.class
-*.jar
-*.war
-*.ear
-/out/
-/.idea/
-/.gradle/
-/build/
