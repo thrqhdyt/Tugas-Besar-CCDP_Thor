@@ -1,0 +1,3 @@
+interface OrderItem {
+    void print();
+}

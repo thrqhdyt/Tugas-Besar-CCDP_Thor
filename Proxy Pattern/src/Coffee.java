@@ -1,0 +1,3 @@
+interface Coffee {
+    void prepare();
+}
